@@ -8,7 +8,7 @@ It's based on the theme roundcube comes with. I wrote it to be a little darker t
 
 Installing a roundcube theme is literally the easiest thing in the world.
 
-* put the "fredsted" folder insude your /`[roundcuberoot]`/`skins`/.
+* put the "fredsted" folder inside your /`[roundcuberoot]`/`skins`/.
 * select the skin in `Settings` when logging in to roundcube.
 
 ## Screenshots
